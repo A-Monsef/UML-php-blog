@@ -1,0 +1,15 @@
+{
+    "name": "monsef/blog",
+    "autoload": {
+        "psr-4": {
+            "Models\\": "models/"
+        }
+    },
+    "authors": [
+        {
+            "name": "build-wizard",
+            "email": "103015582+build-wizard@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
